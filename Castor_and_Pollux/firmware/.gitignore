@@ -1,0 +1,6 @@
+build/
+local/
+*.local
+dist/
+.ninja_log
+build.ninja

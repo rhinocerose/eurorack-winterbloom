@@ -1,0 +1,23 @@
+site_name: Winterbloom Sol User Guide
+copyright: "© 2020 Winterbloom, licensed under Creative Commons CC BY-SA 4.0"
+repo_url: "https://github.com/theacodes/Winterbloom-Sol"
+edit_uri: edit/master/user_guide/docs
+theme:
+  name: winterbloom
+markdown_extensions:
+  - admonition
+  - def_list
+  - attr_list
+  - toc:
+      permalink: "#"
+      toc_depth: 2
+  - pymdownx.highlight:
+      use_pygments: True
+  - pymdownx.superfences
+  - markdown_link_attr_modifier:
+      external_only: True
+      custom_attrs:
+        rel: "noopener"
+        referrerpolicy: "origin"
+nav:
+  - "User Guide": index.md

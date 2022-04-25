@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name jackboard)(type KiCad)(uri ${KIPRJMOD}/jackboard.pretty)(options "")(descr ""))
+)
