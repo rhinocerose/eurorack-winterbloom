@@ -1,0 +1,27 @@
+[submodule "eurorack-winterbloom-Neptune"]
+	path = eurorack-winterbloom-Neptune
+	url = https://github.com/rhinocerose/eurorack-winterbloom-Neptune
+[submodule "eurorack-winterbloom-Helium"]
+	path = eurorack-winterbloom-Helium
+	url = https://github.com/rhinocerose/eurorack-winterbloom-Helium
+[submodule "eurorack-winterbloom-Hydrogen"]
+	path = eurorack-winterbloom-Hydrogen
+	url = https://github.com/rhinocerose/eurorack-winterbloom-Hydrogen
+[submodule "eurorack-winterbloom-Castor_and_Pollux"]
+	path = eurorack-winterbloom-Castor_and_Pollux
+	url = https://github.com/rhinocerose/eurorack-winterbloom-Castor_and_Pollux
+[submodule "eurorack-winterbloom-Hubble"]
+	path = eurorack-winterbloom-Hubble
+	url = https://github.com/rhinocerose/eurorack-winterbloom-Hubble
+[submodule "eurorack-winterbloom-Micronova"]
+	path = eurorack-winterbloom-Micronova
+	url = https://github.com/rhinocerose/eurorack-winterbloom-Micronova
+[submodule "eurorack-winterbloom-Big_Honking_Button"]
+	path = eurorack-winterbloom-Big_Honking_Button
+	url = https://github.com/rhinocerose/eurorack-winterbloom-Big_Honking_Button
+[submodule "eurorack-winterbloom-Speak_to_Me"]
+	path = eurorack-winterbloom-Speak_to_Me
+	url = https://github.com/rhinocerose/eurorack-winterbloom-Speak_to_Me
+[submodule "wintertools"]
+	path = wintertools
+	url = https://github.com/rhinocerose/wintertools

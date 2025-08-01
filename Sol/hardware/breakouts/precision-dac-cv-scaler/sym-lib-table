@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name precision-dac-cv-scaler)(type Legacy)(uri ${KIPRJMOD}/precision-dac-cv-scaler.lib)(options "")(descr ""))
-)
