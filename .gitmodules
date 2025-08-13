@@ -1,0 +1,32 @@
+[submodule "eurorack-winterbloom-Big_Honking_Button"]
+	path = eurorack-winterbloom-Big_Honking_Button
+	url = git@git-rhino:rhinocerose/eurorack-winterbloom-Big_Honking_Button
+	branch = main
+[submodule "eurorack-winterbloom-Castor_and_Pollux"]
+	path = eurorack-winterbloom-Castor_and_Pollux
+	url = git@git-rhino:rhinocerose/eurorack-winterbloom-Castor_and_Pollux
+	branch = main
+[submodule "eurorack-winterbloom-Helium"]
+	path = eurorack-winterbloom-Helium
+	url = git@git-rhino:rhinocerose/eurorack-winterbloom-Helium
+	branch = main
+[submodule "eurorack-winterbloom-Hubble"]
+	path = eurorack-winterbloom-Hubble
+	url = git@git-rhino:rhinocerose/eurorack-winterbloom-Hubble
+	branch = main
+[submodule "eurorack-winterbloom-Hydrogen"]
+	path = eurorack-winterbloom-Hydrogen
+	url = git@git-rhino:rhinocerose/eurorack-winterbloom-Hydrogen
+	branch = main
+[submodule "eurorack-winterbloom-Neptune"]
+	path = eurorack-winterbloom-Neptune
+	url = git@git-rhino:rhinocerose/eurorack-winterbloom-Neptune
+	branch = main
+[submodule "eurorack-winterbloom-Speak_to_Me"]
+	path = eurorack-winterbloom-Speak_to_Me
+	url = git@git-rhino:rhinocerose/eurorack-winterbloom-Speak_to_Me
+	branch = main
+[submodule "wintertools"]
+	path = wintertools
+	url = git@git-rhino:rhinocerose/wintertools
+	branch = main
